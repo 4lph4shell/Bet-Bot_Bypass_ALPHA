@@ -11,12 +11,12 @@ Bet-Bot_Bypass_ALPHA for any bet websites.
 [![youtube](https://img.shields.io/badge/You-tube-%23E4405F.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@4lph4co) 
 
 # Tips
-it's a enfejar bet bot bypass and you can use it in anr bet site .
-this is just a small efective bot if you want full bot contact us.
+- it's a enfejar bet bot bypass and you can use it in anr bet site .
+- this is just a small efective bot if you want full bot contact us.
 
 
 # Usage
-just download and unpake the file .
-then add the folder to your chrome extentions .
-go to the site and enable the extention.
-use it and enjoy.
+- just download and unpake the file .
+- then add the folder to your chrome extentions .
+- go to the site and enable the extention.
+- use it and enjoy.
