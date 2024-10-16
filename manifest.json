@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "final bot",
+  "version": "3.07",
+  "description":"final bot must have 23 loop",
+  "content_scripts" : [{
+    "matches" : ["http://*/*","https://*/*"],
+    "js" : ["background.js"]
+  }],
+  "browser_action": {
+    "default_icon": "crash.png",
+    "default_title": "Crash Bot"
+  },
+  "web_accessible_resources": ["content.js"],
+  "permissions": [
+    "https://*/*",
+    "http://*/*",
+    "tabs"
+  ]
+}
